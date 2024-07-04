@@ -627,11 +627,11 @@
         <div class ="text">
             <table cellpadding="70">
                 <tr class="head">
-                    <th>JOHN PETER</th>
-                    <th>RDJ</th>
-                    <th>TOM</th>
-                    <th>ELIZEBETH</th>
-                    <th>ISAAC</th>
+                    <th>GWEN</th>
+                    <th>MARRY</th>
+                    <th>PETER</th>
+                    <th>HARDIK</th>
+                    <th>FLASH</th>
                 </tr>
             </table>
         </div>
