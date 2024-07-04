@@ -839,7 +839,8 @@
 ```
 ## output
 ![image](https://github.com/ajay45d/css/assets/134574325/58f0dcbe-c655-4f36-9847-311b3d0090e6)
-![image](https://github.com/ajay45d/css/assets/134574325/8fd6b390-ef00-4ee4-9f6a-9d10bb21cc55)
+![image](https://github.com/ajay45d/css/assets/134574325/d71f1c4a-1559-42a0-bbf8-acda8eca1717)
+
 ![image](https://github.com/ajay45d/css/assets/134574325/ba48883d-bf72-4bdb-b6a3-d232a7744ca5)
 ![image](https://github.com/ajay45d/css/assets/134574325/a78ee2f1-6149-4712-93d2-579c26391aa7)
 
