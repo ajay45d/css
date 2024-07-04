@@ -180,7 +180,7 @@
 </body>
 </html>
 ```
-## home.html
+## index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
